@@ -1,5 +1,3 @@
-[{
-  name: 'a',
-  family: 'a',
-  phone: 'a'
-}]
+{
+  name: 'a'
+}
